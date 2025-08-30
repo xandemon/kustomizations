@@ -5,7 +5,9 @@
 ### What's Here Right Now
 
 🎨 **oh-my-posh**: "A prompt theme engine for any shell."\
--> _custom modern theme inspired from `montys` and `jandedobbeleer`_
+
+- _custom modern theme inspired from `montys` and `jandedobbeleer`_
+  ![oh-my-posh theme preview](oh-my-posh/xandemon.omp.json.png)
 
 ### Usage
 
