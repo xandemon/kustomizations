@@ -6,7 +6,7 @@
       "segments": [
         {
           "background": "#000000",
-          "foreground": "#ffffff",
+          "foreground": "#40c4ff",
           "leading_diamond": "\ue0b6",
           "style": "diamond",
           "template": "{{ .Icon }} ",
@@ -23,7 +23,7 @@
             "style": "full"
           },
           "style": "powerline",
-          "template": " <#000>\uf07b \uea9c</> {{ .Path }} ",
+          "template": " <#000>\uf07b</> {{ .Path }} ",
           "type": "path"
         },
         {
@@ -78,7 +78,7 @@
           "type": "root"
         },
         {
-          "foreground": "#40c4ff",
+          "foreground": "#ffcf49",
           "style": "plain",
           "template": " <#45F1C2><b>\u26a1</b></><b>{{ .UserName }}@{{ .HostName }}</b> <#26C6DA>\u276f</><#45F1C2>\u276f</>",
           "type": "text"
